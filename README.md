@@ -1,7 +1,7 @@
 # StudyMate AI – Multi-Agent Learning Assistant
 
 **Course:** CSET395 – Latest Advances in Engineering & Technology
-**Author:** Gaurav Yadav
+
 
 ---
 
@@ -194,4 +194,4 @@ API limits and model changes affected experiments, which itself became an import
 
 ---
 
-⭐ Thank you
+ Thank you
