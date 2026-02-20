@@ -1,4 +1,5 @@
 streamlit
+crewai
+langchain-google-genai
 python-dotenv
 reportlab
-langchain-google-genai
