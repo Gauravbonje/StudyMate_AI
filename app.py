@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 from agents import create_study_crew
-from studymate.utils.pdf_generator import generate_pdf
+from pdf_generator import generate_pdf
 
 st.set_page_config(page_title="StudyMate AI", layout="wide")
 
